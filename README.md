@@ -1,2 +1,2 @@
 # RandomColourCode
-Random Colour Code Generator : https://randomcolourcode.netlify.app/
+Random Colour Code Generator : https://randomcolourcode.netlify.app
